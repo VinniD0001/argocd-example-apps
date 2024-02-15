@@ -3,11 +3,11 @@ entries:
   helm-guestbook:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-02-09T11:29:41.60318Z"
+    created: "2024-02-15T15:54:45.474627Z"
     description: A Helm chart for Kubernetes
-    digest: eeab231f115f821e2397512364dae6baf5f8b2bf84518ba268614cb59197cc22
+    digest: 36846d7cce16ff54465da18ab30506252665353ea9888464900b84b2b8fe3d01
     name: helm-guestbook
     urls:
-    - https://vinnid0001.github.io/argocd-example-apps/helm-guestbook-0.1.0.tgz
-    version: 0.1.0
-generated: "2024-02-09T11:29:41.601789Z"
+    - helm-guestbook-0.1.1.tgz
+    version: 0.1.1
+generated: "2024-02-15T15:54:45.472768Z"
